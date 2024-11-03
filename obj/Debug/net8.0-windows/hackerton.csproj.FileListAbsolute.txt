@@ -1,0 +1,84 @@
+D:\Desktop\hackerton\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Desktop\hackerton\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Desktop\hackerton\obj\Debug\net8.0-windows\App.g.cs
+D:\Desktop\hackerton\obj\Debug\net8.0-windows\hackerton_MarkupCompile.cache
+D:\Desktop\hackerton\obj\Debug\net8.0-windows\hackerton.g.resources
+D:\Desktop\hackerton\obj\Debug\net8.0-windows\hackerton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\hackerton\obj\Debug\net8.0-windows\hackerton.AssemblyInfoInputs.cache
+D:\Desktop\hackerton\obj\Debug\net8.0-windows\hackerton.AssemblyInfo.cs
+D:\Desktop\hackerton\obj\Debug\net8.0-windows\hackerton.csproj.CoreCompileInputs.cache
+D:\Desktop\hackerton\bin\Debug\net8.0-windows\hackerton.exe
+D:\Desktop\hackerton\bin\Debug\net8.0-windows\hackerton.deps.json
+D:\Desktop\hackerton\bin\Debug\net8.0-windows\hackerton.runtimeconfig.json
+D:\Desktop\hackerton\bin\Debug\net8.0-windows\hackerton.dll
+D:\Desktop\hackerton\bin\Debug\net8.0-windows\hackerton.pdb
+D:\Desktop\hackerton\obj\Debug\net8.0-windows\hackerton_MarkupCompile.lref
+D:\Desktop\hackerton\obj\Debug\net8.0-windows\hackerton.dll
+D:\Desktop\hackerton\obj\Debug\net8.0-windows\refint\hackerton.dll
+D:\Desktop\hackerton\obj\Debug\net8.0-windows\hackerton.pdb
+D:\Desktop\hackerton\obj\Debug\net8.0-windows\hackerton.genruntimeconfig.cache
+D:\Desktop\hackerton\obj\Debug\net8.0-windows\ref\hackerton.dll
+D:\Desktop\hackerton\obj\Debug\net8.0-windows\Item.g.cs
+D:\Desktop\hackerton\obj\Debug\net8.0-windows\Login.g.cs
+D:\Desktop\hackerton\obj\Debug\net8.0-windows\Item.baml
+D:\Desktop\hackerton\obj\Debug\net8.0-windows\Login.baml
+D:\Desktop\hackerton\obj\Debug\net8.0-windows\Register.baml
+D:\Desktop\hackerton\obj\Debug\net8.0-windows\Register.g.cs
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\bin\Debug\net8.0-windows\hackerton.exe
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\bin\Debug\net8.0-windows\hackerton.deps.json
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\bin\Debug\net8.0-windows\hackerton.runtimeconfig.json
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\bin\Debug\net8.0-windows\hackerton.dll
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\bin\Debug\net8.0-windows\hackerton.pdb
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\Item.baml
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\Register.baml
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\Item.g.cs
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\Login.g.cs
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\Register.g.cs
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\hackerton_MarkupCompile.cache
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\hackerton_MarkupCompile.lref
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\Login.baml
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\hackerton.g.resources
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\hackerton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\hackerton.AssemblyInfoInputs.cache
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\hackerton.AssemblyInfo.cs
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\hackerton.csproj.CoreCompileInputs.cache
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\hackerton.dll
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\refint\hackerton.dll
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\hackerton.pdb
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\hackerton.genruntimeconfig.cache
+C:\Users\seoyu\OneDrive\바탕 화면\새 폴더\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\ref\hackerton.dll
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\bin\Debug\net8.0-windows\hackerton.exe
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\bin\Debug\net8.0-windows\hackerton.deps.json
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\bin\Debug\net8.0-windows\hackerton.runtimeconfig.json
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\bin\Debug\net8.0-windows\hackerton.dll
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\bin\Debug\net8.0-windows\hackerton.pdb
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\adminItem.baml
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\Item.baml
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\adminItem.g.cs
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\adminMain.g.cs
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\Item.g.cs
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\Login.g.cs
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\Register.g.cs
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\hackerton_Content.g.cs
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\hackerton_MarkupCompile.cache
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\hackerton_MarkupCompile.lref
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\adminMain.baml
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\Login.baml
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\Register.baml
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\hackerton.g.resources
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\hackerton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\hackerton.AssemblyInfoInputs.cache
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\hackerton.AssemblyInfo.cs
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\hackerton.csproj.CoreCompileInputs.cache
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\hackerton.dll
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\refint\hackerton.dll
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\hackerton.pdb
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\hackerton.genruntimeconfig.cache
+C:\Users\조석헌\Downloads\hackerton 2.49\hackerton 2.14\hackerton\obj\Debug\net8.0-windows\ref\hackerton.dll

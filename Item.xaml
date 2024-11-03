@@ -1,0 +1,62 @@
+﻿<Window x:Class="hackerton.Item"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="270" Width="270">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.6*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="0.8*"/>
+        </Grid.RowDefinitions>
+
+        <!-- 날짜 선택기 -->
+        <Grid Grid.Row="0" Margin="20,10,10,0">
+            <DatePicker x:Name="calendar" Width="120" Height="30" HorizontalAlignment="Right" VerticalAlignment="Bottom"
+                        SelectedDate="{Binding SelectedDateTime, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" 
+                        SelectedDateChanged="Calendar_SelectedDateChanged">
+                <DatePicker.BorderBrush>
+                    <LinearGradientBrush EndPoint="0.5,0" StartPoint="0.5,1">
+                        <GradientStop Color="White" Offset="0"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </DatePicker.BorderBrush>
+            </DatePicker>
+        </Grid>
+
+        <!-- 시간 선택기 (시:분) -->
+        <Grid Grid.Row="1">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top">
+                <TextBox x:Name="start_hourTextBox" Width="50" Text="00" HorizontalAlignment="Left" FontSize="35"/>
+                <TextBlock Text=":" HorizontalAlignment="Center"  VerticalAlignment="Center" FontSize="35"/>
+                <TextBox x:Name="start_minuteTextBox" Width="50" Text="00" HorizontalAlignment="Left" FontSize="35" Margin="5,0,0,0"/>
+
+                <TextBlock Text="~" HorizontalAlignment="Center"  VerticalAlignment="Center" FontSize="35"/>
+
+                <TextBox x:Name="end_hourTextBox" Width="50" Text="00" HorizontalAlignment="Left" FontSize="35"/>
+                <TextBlock Text=":" HorizontalAlignment="Center"  VerticalAlignment="Center" FontSize="35"/>
+                <TextBox x:Name="end_minuteTextBox" Width="50" Text="00" HorizontalAlignment="Left" FontSize="35" Margin="5,0,0,0"/>
+            </StackPanel>
+        </Grid>
+
+        <!-- 예약 확인 버튼 -->
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Column="0" Grid.Row="1">
+                <Button Content="예약" Margin="3" Click="OnConfirmClick"/>
+            </Grid>
+            <Grid Grid.Column="1" Grid.Row="1">
+                <Button Content="취소" Margin="3" Click="Remove_OnConfirmClick"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>
